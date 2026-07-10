@@ -1,0 +1,15 @@
+Create Project
+
+dotnet new console -n RetailInventory
+
+Open Project
+
+cd RetailInventory
+
+Install EF Core SQL Server Package
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+Install Design Package
+
+dotnet add package Microsoft.EntityFrameworkCore.Design
