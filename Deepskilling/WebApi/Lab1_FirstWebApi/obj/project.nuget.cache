@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIvstuefn+s=",
+  "success": true,
+  "projectFilePath": "/Users/ramyamallampalli/Desktop/cts-DoNet/Deepskilling/WebApi/Lab1_FirstWebApi/Lab1_FirstWebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramyamallampalli/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ramyamallampalli/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ramyamallampalli/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.28/microsoft.netcore.app.host.osx-arm64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

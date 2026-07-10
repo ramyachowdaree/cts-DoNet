@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deepskilling", "Deepskilling", "{E36A7A1E-73A7-1A08-2616-093A615BDEEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{E6699E29-7BA0-17A8-4083-12452E81BFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_FirstWebApi", "Deepskilling\WebApi\Lab1_FirstWebApi\Lab1_FirstWebApi.csproj", "{80AEC223-5129-A4CC-B673-BAF724D1510F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AEC223-5129-A4CC-B673-BAF724D1510F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AEC223-5129-A4CC-B673-BAF724D1510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AEC223-5129-A4CC-B673-BAF724D1510F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AEC223-5129-A4CC-B673-BAF724D1510F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6699E29-7BA0-17A8-4083-12452E81BFEF} = {E36A7A1E-73A7-1A08-2616-093A615BDEEF}
+		{80AEC223-5129-A4CC-B673-BAF724D1510F} = {E6699E29-7BA0-17A8-4083-12452E81BFEF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB04D8E5-5023-4054-9C1B-803404306D36}
+	EndGlobalSection
+EndGlobal
